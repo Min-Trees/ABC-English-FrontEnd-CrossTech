@@ -1,6 +1,6 @@
 import React from 'react';
 import { Icon } from '@iconify/react';
-import homeIcon from '@iconify/icons-mdi/home'; // Đảm bảo biểu tượng này có sẵn trong thư viện
+import homeIcon from '@iconify/icons-mdi/home';
 
 const AboutPage: React.FC = () => {
     return (

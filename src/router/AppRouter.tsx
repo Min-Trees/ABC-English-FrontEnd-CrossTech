@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import App from '../App'; // Đảm bảo đường dẫn đúng
+import App from '../App'; 
 import AboutPage from '../pages/AboutPage';
 
 const AppRouter: React.FC = () => (
